@@ -1,6 +1,14 @@
 # Harness Engineering Template
 
-Next.js 16 + React 19 프로젝트 템플릿
+Claude Code 기반 Spec-Driven Development 워크플로우가 내장된 Next.js 프로젝트 템플릿입니다.
+
+## 프로젝트 개요
+
+이 템플릿은 **Ideate → Define → Sketch → Plan → Build → Compound** 6단계 워크플로우를 통해 AI와 협업하는 개발 환경을 제공합니다.
+
+- Claude Code 훅(hook)으로 코드 품질을 자동 유지합니다 (ESLint auto-fix).
+- spec.md를 단일 계약으로 삼아 TDD 기반으로 기능을 구현합니다.
+- Vercel Analytics / Speed Insights가 기본 탑재되어 있습니다.
 
 ## 기술 스택
 
