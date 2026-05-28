@@ -1,4 +1,6 @@
-# Harness Engineering Template
+﻿# Harness Engineering Template
+
+**배포:** https://toy-project-eight.vercel.app
 
 Next.js 16 + React 19 프로젝트 템플릿
 
