@@ -9,8 +9,8 @@ import { cn } from "@/lib/utils";
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: "Kanban Todo",
-  description: "Kanban board application",
+  title: "feedme",
+  description: "Next.js 16 + React 19 기반 스펙 주도 개발 워크플로우를 지원하는 Claude Code 프로젝트 템플릿",
 };
 
 export default function RootLayout({
